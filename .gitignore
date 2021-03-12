@@ -1,0 +1,7 @@
+#忽略所有的 .txt 文件夹
+*.txt
+
+#忽略文件
+/bbbbb
+#忽略bb.txt文件
+c.txt/
